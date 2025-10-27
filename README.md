@@ -1,4 +1,4 @@
-# Fully Completed Microservices Project
+# AeroConnect - Microservices Suite
 
 ## Overview
 
@@ -95,34 +95,3 @@ cd <microservice-name>
 docker build -t <microservice-name>:latest .
 docker run -d -p <port>:<container-port> <microservice-name>:latest
 ```
-
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or feedback, please open an issue in the repository.
-
-Thank you,
-Pramitha Jayasooriya
-https://pramithamj.live
-
-<!--
-buy me a coffee
--->
-## Donation
-
-***If you like what I do, maybe consider buying me a coffee***
-
-<a href="https://buymeacoffee.com/lpramithamm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
-
-***
